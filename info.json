@@ -1,1 +1,21 @@
-
+{"name":"Lilypad",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Lilypad is a revolutionary serverless compute platform from Protocol Labs, democratizing high-performance computing. It operates by leveraging a network of GPU node operators, ensuring trust with optimistic reproducibility & on-chain guarantees. Lilypad sees compute as vital for an open web and AI, aiming to reach a broad user base. Developers can run internet-scale tasks from a smart contract, CLI, or SaaS, spanning AI, ML, gaming, DeFI & DeSci.",
+"whitePaperLink":"https://docs.lilypad.tech",
+"gallery":[{}],
+"deleted":false,
+"primaryColor":"#86d8d6",
+"twitterHandle":"lilypad_tech",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://pbs.twimg.com/profile_images/1717411559281139712/RFOW4hcH_400x400.png﻿"
+"squareLogo":"https://cdn.hashnode.com/res/hashnode/image/upload/v1694659080138/HI1l1RPQT.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://lilypad.tech",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Science DeFi", "Decentralized Computing", "Ecosystems"]  
+}
